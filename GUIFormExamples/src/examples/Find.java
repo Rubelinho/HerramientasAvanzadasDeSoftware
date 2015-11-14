@@ -54,8 +54,8 @@ public class Find extends javax.swing.JFrame {
         jButton2 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Find");
-        jLabel1.setText("Find What:");
+        setTitle("Encontrar");
+        jLabel1.setText("Encontrar que:");
 
         jCheckBox1.setText("Match Case");
         jCheckBox1.setBorder(javax.swing.BorderFactory.createEmptyBorder(0, 0, 0, 0));
@@ -65,7 +65,7 @@ public class Find extends javax.swing.JFrame {
         jCheckBox2.setBorder(javax.swing.BorderFactory.createEmptyBorder(0, 0, 0, 0));
         jCheckBox2.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
-        jCheckBox3.setText("Whole Words");
+        jCheckBox3.setText("Todas las palabras");
         jCheckBox3.setBorder(javax.swing.BorderFactory.createEmptyBorder(0, 0, 0, 0));
         jCheckBox3.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
