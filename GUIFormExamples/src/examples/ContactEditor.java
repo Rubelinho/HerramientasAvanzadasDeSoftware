@@ -79,7 +79,7 @@ public class ContactEditor extends javax.swing.JFrame {
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(" Name "));
         jLabel1.setText("Nombre:");
 
-        jLabel2.setText("Last Name:");
+        jLabel2.setText("Apellido:");
 
         jTextField1.setText("John");
 
