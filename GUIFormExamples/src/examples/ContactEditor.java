@@ -77,7 +77,7 @@ public class ContactEditor extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("E-mail Contacts");
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(" Name "));
-        jLabel1.setText("First Name:");
+        jLabel1.setText("Nombre:");
 
         jLabel2.setText("Last Name:");
 
